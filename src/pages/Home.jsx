@@ -19,7 +19,7 @@ const Home = () => {
 
         {/* Icons Section */}
         <div className="icons-container">
-          <a href="https://drive.google.com/file/d/1eMdQolt_OC7vwxTxjrRn8cU_HUCVFzxY/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+          <a href="https://drive.google.com/file/d/1Yqy6amQXD2BG4bTRKDTom1xFP_qTvQjI/view?usp=sharing" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faFileAlt} size="2x" className="icon" />
           </a>
           <a href="https://github.com/vanshwahi01" target="_blank" rel="noopener noreferrer">
